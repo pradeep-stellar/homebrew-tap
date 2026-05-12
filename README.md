@@ -1,6 +1,6 @@
 # homebrew-tap
 
-Homebrew formulae for tools by [pradeep-stellar](https://github.com/pradeep-stellar).
+Homebrew formulae for tools by [Pradeep Gowda](https://github.com/pradeep-stellar).
 
 ## Usage
 
